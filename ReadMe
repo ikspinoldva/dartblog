@@ -1,4 +1,4 @@
-This is a teaching project with a visual part taken from the internet. 
+This is the project I was trained on Django with a visual part taken from the internet. 
 On this project I learned how to fill visual templates with my own Python/Django code, edit html pages and find elements of interest in java script code.
 
 The main page displays the main article and 4 articles by pagination. In the navbar you can select the category of articles shown.
